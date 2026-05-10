@@ -11,3 +11,4 @@ reportlab==4.2.0
 streamlit-mic-recorder==0.0.8
 SpeechRecognition==3.10.4
 fpdf2==2.8.2
+fpdf2
